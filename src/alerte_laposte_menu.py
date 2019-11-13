@@ -1,6 +1,6 @@
 
 import collections #permet de trier un dictionnaire
-
+# Todo jaloux
 fichier_log= "/home/squilly/programmation/projet python/connexion.log"
 fichier_warning= "/home/squilly/programmation/projet python/warning.txt"
 fichier_utilisateurs= "/home/squilly/programmation/projet python/utilisateurs.txt"
